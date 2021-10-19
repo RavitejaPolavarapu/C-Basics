@@ -1,0 +1,40 @@
+#include<stdio.h>
+void main()
+{
+    int a,b,c;
+    a=20;
+    b=20;
+    c=a+b;
+    
+	printf("sum=%d",c);
+}
+  
+  // or
+ 
+ #include<stdio.h>
+void main()
+{
+    int a=20,b=20,c=a+b;
+    
+	printf("sum=%d",c);
+}
+
+// or
+
+#include<stdio.h>
+void main()
+{
+    int a=20,b=20;
+    
+	printf("sum=%d",a+b);
+}
+
+//or
+
+#include<stdio.h>
+void main()
+{
+    int a=20,b=20;
+    
+	printf("sum of 20 and 20 =%d",a+b);
+}
