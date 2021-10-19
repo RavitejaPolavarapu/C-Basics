@@ -1,0 +1,21 @@
+#include<stdio.h>
+void main()
+{
+   //variable declaration
+   
+   int age;
+   float CGPA;
+   char Initial;
+   
+   // Intialization
+   
+   age=21;
+   CGPA=8.48;
+   Initial='P';
+   
+  //out put
+  
+  printf("Age of the student is %d\n",age);     //for int ---> %d
+  printf("CGPA of the student is %f\n",CGPA);   //for float---> %f
+ printf("Initial of stuident is %c",Initial);   //for Char---> %c
+}
