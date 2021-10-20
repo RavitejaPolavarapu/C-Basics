@@ -13,7 +13,7 @@ void main()
    CGPA=8.48;
    Initial='P';
    
-  //out put
+  //out put using Format Specifiers
   
   printf("Age of the student is %d\n",age);     //for int ---> %d
   printf("CGPA of the student is %f\n",CGPA);   //for float---> %f
